@@ -20,6 +20,7 @@ Data is loaded to Power BI to get visually appealing dashboard and answer to bus
 Divide  to create measures and columns. Power BI finds all one to Many relations by its own.
 
 Some Important Findings  
+Gas is more utilized in winter season whereas Oil is more utilized in spring season.
 Gas is more accident prone as compared to oil. Oil cause more serious injuries as compared to gas. BC has more of Oil Incidents where as AB has more Gas pipeline incidents.
 
 Consumption of Oil is more as compared to Gas in  Canada. As more Vehicles  are operated on Gas with respect to Gas and gas is more used in households as well as more seasonal.
